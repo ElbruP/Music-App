@@ -1,5 +1,5 @@
 import React, { createContext, useState } from "react";
-import tracksList from "../assets/trackslist";
+import tracksList from "/src/assets/trackslist";
 
 const audio = new Audio();
 
