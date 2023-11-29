@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import tracksList from '../../assets/trackslist';
+import tracksList from '/src/assets/tracksList.js';
 import style from './mainPage.module.scss';
 import Track from '../../components/Track/Track';
 import { Input } from '@mui/material';
